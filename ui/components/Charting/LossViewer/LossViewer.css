@@ -1,0 +1,12 @@
+.LossViewer .titles {
+    margin-bottom: 10px;
+}
+
+.LossViewer .svg-container {
+    margin-bottom: 10px;
+}
+
+.LossViewer .test-loss, .LossViewer .training-loss {
+    display: flex;
+    justify-content: space-between;
+}
